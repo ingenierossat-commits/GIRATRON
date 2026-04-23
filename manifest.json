@@ -1,6 +1,6 @@
 {
   "name": "Monitor Puerta Giratoria",
-  "short_name": "PuertaMonitor",
+  "short_name": "Giratron",
   "description": "Monitor de estado para puertas giratorias automáticas",
   "start_url": "/GIRATRON/",
   "display": "standalone",
